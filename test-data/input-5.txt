@@ -1,0 +1,4 @@
+# Both stores always fail (failure rate 1.0)
+GT4500,10,1,10,1
+TORPEDO,SINGLE # primary fails, secondary is not tried
+TORPEDO,ALL    # both fail
