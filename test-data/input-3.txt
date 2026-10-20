@@ -1,0 +1,7 @@
+# Secondary store is empty, primary has 3 torpedoes
+GT4500,3,0,0,0
+TORPEDO,ALL    # only primary fires (2 left)
+TORPEDO,SINGLE # primary (1 left)
+TORPEDO,SINGLE # secondary empty -> primary again (0 left)
+TORPEDO,SINGLE # both empty
+TORPEDO,ALL    # both empty
