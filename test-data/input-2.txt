@@ -1,0 +1,4 @@
+# Primary store is empty: the ship falls back to the secondary store
+GT4500,0,0,10,0
+TORPEDO,SINGLE # primary empty -> secondary
+TORPEDO,ALL    # only secondary can fire
