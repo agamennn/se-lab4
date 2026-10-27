@@ -1,0 +1,6 @@
+# Both stores stocked, never fail: SINGLE alternates primary/secondary, ALL fires both
+GT4500,10,0,10,0
+TORPEDO,SINGLE # primary
+TORPEDO,SINGLE # secondary
+TORPEDO,SINGLE # primary again
+TORPEDO,ALL    # both stores
