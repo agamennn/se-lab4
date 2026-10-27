@@ -1,0 +1,3 @@
+SUCCESS # <- GT4500
+FAIL    # <- SINGLE
+FAIL    # <- ALL
